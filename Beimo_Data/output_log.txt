@@ -1,0 +1,71 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\EasyRoads3D.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\EasyRoads3D.dll into Unity Child Domain
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\EasyRoads3D.dll (this message is harmless)
+Loading H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\EasyRoads3D.dll into Unity Child Domain
+- Completed reload, in  4.742 seconds
+- Completed reload, in  4.746 seconds
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: H:\Assignments\ISU\NEW BEIMO\Beimo_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.303636 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 14d4 -> priority: 1 
+  Thread -> id: 27b4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.461612 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1117.
+Total: 6.699735 ms (FindLiveObjects: 0.085216 ms CreateObjectMapping: 0.048828 ms MarkObjects: 0.877353 ms  DeleteObjects: 5.687403 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.142021 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 12731.
+Total: 14.469959 ms (FindLiveObjects: 1.392071 ms CreateObjectMapping: 0.505699 ms MarkObjects: 3.584367 ms  DeleteObjects: 8.985644 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 23.717472 ms
+
+Unloading 826 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 27.492176 ms (FindLiveObjects: 0.132178 ms CreateObjectMapping: 0.180073 ms MarkObjects: 1.556595 ms  DeleteObjects: 25.621775 ms)
+
